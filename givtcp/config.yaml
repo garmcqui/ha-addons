@@ -13,7 +13,7 @@ map:
   - config:rw
   - ssl
 boot:  auto
-url:  https://github.com/britkat1980/giv_tcp
+url:  https://github.com/garmcqui/giv_tcp
 legacy:  true
 arch: 
   - aarch64
